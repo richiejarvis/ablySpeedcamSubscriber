@@ -1,0 +1,11 @@
+# Speedcamera Subscriber Properties file
+ably.channel=
+ably.api_key=
+
+es.host=
+es.port=
+es.user=
+es.password=
+
+
+
